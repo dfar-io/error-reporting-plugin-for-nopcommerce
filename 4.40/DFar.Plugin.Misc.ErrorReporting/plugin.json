@@ -1,0 +1,11 @@
+{
+    "Group": "Misc",
+    "FriendlyName": "Error Reporting",
+    "SystemName": "Misc.ErrorReporting",
+    "Version": "4.40.0",
+    "SupportedVersions": [ "4.40" ],
+    "Author": "Dave Farinelli",
+    "DisplayOrder": 1,
+    "FileName": "DFar.Plugin.Misc.ErrorReporting.dll",
+    "Description": "Sends email when error/warnings thresholds are met through the store."
+}
